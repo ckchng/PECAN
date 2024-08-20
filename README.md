@@ -31,6 +31,11 @@ If you find this code useful in your research, please cite our paper:
   title={Crater identification by perspective cone alignment},
   author={Chng, Chee-Kheng and Mcleod, Sofia and Rodda, Matthew and Chin, Tat-Jun},
   journal={Acta Astronautica},
-  year={2024},
+  volume = {224},
+  pages = {1-16},
+  year = {2024},
+  issn = {0094-5765},
+  doi = {https://doi.org/10.1016/j.actaastro.2024.07.053},
+  url = {https://www.sciencedirect.com/science/article/pii/S0094576524004211},
   publisher={Elsevier}
 }
