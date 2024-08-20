@@ -14,13 +14,9 @@ To use your own data, the following I/O adaptations are required:
  - Replace the robbins_navigation_dataset.txt in the data/ directory with your own crater catalogue.
  - If you want to provide your own testing data, implement a custom I/O function to replace the testing_data_reading function (line 663) in PECAN.py. The minimum required input includes detected craters in ellipse form (x, y, a, b, theta) and the camera attitude.
 
+## License
+This source code is licensed under the Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license, which allows for free use in academic and research contexts. If you intend to use this code for commercial purposes, please contact us to obtain the appropriate licensing.
 
-
-This repository contains the code and data associated with the publication:
-
-**Crater Identification by Perspective Cone Alignment**  
-*Chee-Kheng Chng, Sofia Mcleod, Matthew Rodda, Tat-Jun Chin*  
-Published in **Acta Astronautica**, Elsevier, 2024
 
 ## Citation
 
