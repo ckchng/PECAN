@@ -9,11 +9,11 @@ Welcome to the repository for the Crater Identification by Perspective Cone Alig
 
 
 <div style="text-align: center;">
-    <img src="images/existing_CID_vs_PECAN.png" alt="Description of the image" width="600"/>
+    <img src="images/existing_CID_vs_PECAN.png" alt="Description of the image" width="800"/>
 </div>
 
 <div style="text-align: center;">
-    <img src="images/pecan_cid_concept.png" alt="Description of the image" width="600"/>
+    <img src="images/pecan_cid_concept.png" alt="Description of the image" width="400"/>
 </div>
 
 
