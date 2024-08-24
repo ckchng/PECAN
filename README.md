@@ -15,7 +15,7 @@ Welcome to the repository for the Crater Identification by Perspective Cone Alig
     <img src="images/pecan_cid_concept.png" alt="Description of the image" width="600"/>
 </div>
 
-
+## Installation
 The `environment.yml` file contains all the necessary libraries and the specific versions that the code was tested with.
 
 An example of a testing data file is provided in the `data/` directory.
