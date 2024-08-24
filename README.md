@@ -7,14 +7,13 @@ Welcome to the repository for the Crater Identification by Perspective Cone Alig
 - Notably, PECAN's onboard catalogue scales linearly with the mission catalogue. The 
 - This approach is more accurate in noisy conditions and scales efficiently with linear time and space complexities, making it a robust solution for future planetary exploration.
 
+<center>
+    <img src="images/existing_CID_vs_PECAN.png" alt="Description of the image" width="600"/>
+</center>
 
-<div style="text-align: center;">
-    <img src="images/existing_CID_vs_PECAN.png" alt="Description of the image" width="800"/>
-</div>
-
-<div style="text-align: center;">
-    <img src="images/pecan_cid_concept.png" alt="Description of the image" width="400"/>
-</div>
+<center>
+    <img src="images/pecan_cid_concept.png" alt="Description of the image" width="600"/>
+</center>
 
 
 The `environment.yml` file contains all the necessary libraries and the specific versions that the code was tested with.
