@@ -1,5 +1,5 @@
 # Crater Identification by Perspective Cone Alignment
-
+![Description of the image](images/existing_CID_vs_PECAN.png "This is an optional title")
 ![Description of the image](images/pecan_cid_concept.png "This is an optional title")
 
 
