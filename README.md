@@ -3,17 +3,18 @@ Welcome to the repository for the Crater Identification by Perspective Cone Alig
 
 - Crater identification (CID) is essential for crater-based navigation in planetary missions, aiming to match observed craters to a known catalogue. 
 - Existing CID methods use descriptors that often struggle with noise and rapidly growing indices as catalogue size increases. 
-- PECAN is a descriptorless technique that iteratively solves the perspective cone alignment problem. 
+- PECAN is a descriptorless technique that iteratively solves the perspective cone alignment problem. See Figure 1 for a comparison between existing CID methods and PECAN. 
 - Notably, PECAN's onboard catalogue scales linearly with the mission catalogue.
 - PECAN is more accurate in noisy conditions and scales efficiently with linear time and space complexities, making it a robust solution for future planetary exploration.
 
 <div align="center">
     <img src="images/existing_CID_vs_PECAN.png" alt="Description of the image" width="800"/>
-    <p><em>Figure 1: Existing CID pipeline vs PECAN. PECAN operates directly on the mission catalogue.</em></p>
+    <p><em>Figure 1: Existing CID pipeline vs PECAN. </em></p>
 </div>
 
 <div align="center">
     <img src="images/pecan_cid_concept.png" alt="Description of the image" width="400"/>
+    <p><em>Figure 2: The concept of PECAN. It seeks the optimal camera position (t*) that best aligns the observed craters to the crater catalogue in the Moon's coordinates systems (MCS).</em></p>
 </div>
 
 ## Installation
