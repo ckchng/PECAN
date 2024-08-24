@@ -8,11 +8,12 @@ Welcome to the repository for the Crater Identification by Perspective Cone Alig
 - This approach is more accurate in noisy conditions and scales efficiently with linear time and space complexities, making it a robust solution for future planetary exploration.
 
 <div align="center">
-    <img src="images/existing_CID_vs_PECAN.png" alt="Description of the image" width="600"/>
+    <img src="images/existing_CID_vs_PECAN.png" alt="Description of the image" width="800"/>
+    <p><em>Figure 1: Existing CID pipeline vs PECAN. PECAN operates directly on the mission catalogue.</em></p>
 </div>
 
 <div align="center">
-    <img src="images/pecan_cid_concept.png" alt="Description of the image" width="600"/>
+    <img src="images/pecan_cid_concept.png" alt="Description of the image" width="400"/>
 </div>
 
 ## Installation
