@@ -1,5 +1,8 @@
 # Crater Identification by Perspective Cone Alignment
 
+![Description of the image](images/pecan_cid_concept.png "This is an optional title")
+
+
 The `environment.yml` file contains all the necessary libraries and the specific versions that the code was tested with.
 
 An example of a testing data file is provided in the `data/` directory.
