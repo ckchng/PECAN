@@ -1,4 +1,5 @@
 # Crater Identification by Perspective Cone Alignment
+Author: Chee Kheng Chng
 Welcome to the repository for the Crater Identification by Perspective Cone Alignment (PECAN). 
 
 - Crater identification (CID) is essential for crater-based navigation in planetary missions, aiming to match observed craters to a known catalogue. 
